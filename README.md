@@ -1,0 +1,2 @@
+# Data-Observability-as-a-Service-for-Urban-Mobility-Pipelines
+Capstone project for FSE 570 – Data Observability-as-a-Service for Urban Mobility Pipelines. This repo contains code, data pipelines, and documentation for integrating NYC taxi trip records with NOAA weather data, ensuring data quality through observability checks, and building predictive models to study the impact of weather on urban mobility.
